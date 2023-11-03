@@ -10,9 +10,9 @@
 
 
 
-- 🔭 I’m currently working on **My final project**
+- 🔭 I’m currently working on **my final project**
 - 🌱 I’m currently learning **Java, Database, Framework, APIs**
-- 💬 Ask me about **Anything you want**
+- 💬 Ask me about **anything you want**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Hahahaha**
 
