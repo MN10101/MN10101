@@ -28,12 +28,15 @@ Here are some ideas to get you started:
 </div>
 <hr/>
  
+<hr/>
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github" />
-    <img src="https://skillicons.dev/icons?i=java,c#,javascript,typescript,firebase,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,r" />
+    <img src="https://skillicons.dev/icons?i=javascript,firebase,mongodb,c,java,mysql" /><br>
 </div>
 
 <br/>
+
 
