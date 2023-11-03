@@ -13,7 +13,17 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **My final project**
 - 🌱 I’m currently learning **Java, Database, Framework, APIs**
 - 💬 Ask me about **Anything you want**
-- 📫 How to reach me: **nm.de@outlook.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Hahahaha**
+
+   </div>
+ 
+<div align="center"> 
+  <a href="mailto:mn.de@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/mahmoud-najmeh-b53172211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
