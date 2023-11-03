@@ -32,9 +32,8 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github" />
-    <img src="https://skillicons.dev/icons?i=java,C#,javascript,typescript,firebase,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=java,c#,javascript,typescript,firebase,mongodb,mysql" /><br>
 </div>
 
 <br/>
-<hr/>
 
