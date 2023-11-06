@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on **my final project**
-- 🌱 I’m currently learning **Java, Database, Framework, APIs**
+- 🌱 I’m currently learning **Java, Database, Framework, APIs, Spring**
 - 💬 Ask me about **anything you want**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Hahahaha**
