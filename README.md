@@ -11,10 +11,9 @@
 
 
 - 🔭 I’m currently working on **my final project**
-- 🌱 I’m currently learning **Java, Database, Framework, APIs, Spring**
+- 🌱 I’m currently learning **Java, MSQL, PostgreSQL, Spring Framework, REST APIs, Spring boot, Spring MVC, Spring Security,Thymeleaf(HTML)**
 - 💬 Ask me about **anything you want**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Hahahaha**
 
 </div>
  
