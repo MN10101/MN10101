@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github" />
     <img src="https://skillicons.dev/icons?i=javascript,windows,linux,spring,java,postgresql,mysql" />
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
-    <img src="https://img.icons8.com/fluent/48/000000/java-eclipse.png" /><br>
+    <img src="https://skillicons.dev/icons?i=eclipse" /><br>
 </div>
 
 
