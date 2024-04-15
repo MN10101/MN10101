@@ -37,7 +37,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,windows,linux" />
-    <img src="https://skillicons.dev/icons?i=spring" />
     <img src="https://skillicons.dev/icons?i=javascript,bootstrap,css,html" />
     <img src="https://img.icons8.com/color/48/000000/thymeleaf.png" />
     <img src="https://skillicons.dev/icons?i=github,vscode" />
