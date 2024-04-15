@@ -39,8 +39,7 @@
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,windows,linux" />
     <img src="https://skillicons.dev/icons?i=javascript,bootstrap,css,html" />
     <img src="https://img.icons8.com/color/48/000000/thymeleaf.png" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github,vscode" />
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
     <img src="https://skillicons.dev/icons?i=eclipse" /><br>
 </div>
