@@ -22,10 +22,10 @@
     <img <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 
   </a>
-  <a href="https://www.linkedin.com/in/mahmoud-najmeh-b53172211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/mahmoud-najmeh-b53172211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" />
   </a>
-<a href="https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles)(https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles)utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+<a href="https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles)(https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles)utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
     <img src="https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white" />
   </a>
   <img 
