@@ -36,7 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring<img src="https://img.icons8.com/color/48/000000/thymeleaf.png" />,mysql,postgresql,windows,linux" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,windows,linux" />
+    <img src="https://img.icons8.com/color/48/000000/thymeleaf.png" />
     <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,css,github,vscode" />
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
     <img src="https://skillicons.dev/icons?i=eclipse" /><br>
