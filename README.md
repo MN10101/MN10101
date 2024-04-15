@@ -39,9 +39,10 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=javascript,windows,linux,spring,java,postgresql,mysql,intellij" />
-    <img src="https://skillicons.dev/icons?i=eclipse" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,windows,linux,spring,java,postgresql,mysql" /><br>
+    IntelliJ, Eclipse
 </div>
+
 
 <br/>
 
