@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on **my final project**
-- 🌱 Currently learning Java with DCI in an intensive more-than-one-year professional training, with 1800 hours of remote classes, focusing on the next topics:  **Java, MSQL, PostgreSQL, Spring Framework, REST APIs, Spring boot, Spring MVC, Spring Security,Thymeleaf(HTML)**
+- 🌱 Currently learning Java with DCI in an intensive more-than-one-year professional training, with 1800 hours of remote classes, focusing on the next topics:  **Java, SSQL, PostgreSQL, Spring Framework, REST APIs, Spring boot, Spring MVC, Spring Security,Thymeleaf(HTML)**
 - 💬 Ask me about **anything you want**
 - 😄 Pronouns: **He/Him**
 
