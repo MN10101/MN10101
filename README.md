@@ -36,6 +36,8 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
     <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" /><br/>
+    <hr/>
+<hr/>
     <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uraniumkid30&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="uraniumkid30" /></p>
 </div>
 <br/>
