@@ -25,7 +25,7 @@
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="280"/>
-<br/>
+<br/><br/><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,windows,linux" />
     <img src="https://skillicons.dev/icons?i=javascript,bootstrap,css,html" />
@@ -35,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=eclipse" />
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
    <img src="https://skillicons.dev/icons?i=php" /><br>
-    <img src="https://img.icons8.com/color/48/000000/aws.png" />
-<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
+    <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" /><br/>
 </div>
 <br/>
