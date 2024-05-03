@@ -44,6 +44,6 @@
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
     <img src="https://skillicons.dev/icons?i=eclipse" />
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
-    <img src="https://img.icons8.com/color/48/000000/php-logo.png" width="48" height="48"/><br>
+    <img src="https://img.icons8.com/color/48/000000/php-logo.png" width="48" height="48" style="padding-top: 5px;"/><br>
 </div>
 <br/>
