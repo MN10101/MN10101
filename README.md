@@ -38,7 +38,8 @@
     <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" /><br/>
     <hr/>
 <hr/>
-    ## :trophy: Git profile Trophies
+    
+## :trophy: Git profile Trophies
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uraniumkid30&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
