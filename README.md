@@ -38,6 +38,6 @@
     <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" /><br/>
     <hr/>
 <hr/>
-    <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uraniumkid30&show_icons=true&locale=en&layout=compact&theme=dark&background=000000&hide=python&langs_count=10" alt="uraniumkid30" /></p>
+    <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uraniumkid30&show_icons=true&locale=en&layout=compact&theme=dark&background=000000&langs_count=10" alt="uraniumkid30" /></p>
 </div>
 <br/>
