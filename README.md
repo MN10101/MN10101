@@ -4,6 +4,11 @@
 </h1>
 <h3 align="center">Software Developer, Java {} Spring from Berlin 🇩🇪</h3>
 <br/>
+- 🔭 I’m currently working on **my final project**
+- 🌱 Currently learning Java with DCI in an intensive one year professional training, with 1800 hours of remote classes, focusing on the next topics:  **Java, SSQL, PostgreSQL, Spring Framework, REST APIs, Spring boot, Spring MVC, Spring Security,Thymeleaf(HTML)**
+- 💬 Ask me about **anything you want**
+- 😄 Pronouns: **He/Him**
+</div>
 <div align="center"> 
   <a href="mailto:mn.de@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
@@ -15,8 +20,6 @@
     <img src="https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white" />
   </a>
 </div>
-<hr/>
-<hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" height="280"/>
 <br/>
