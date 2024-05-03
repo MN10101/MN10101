@@ -46,7 +46,7 @@
 <hr/>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/MN10101"><img alt="Mahmoud Najmeh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=uraniumkid30&custom_title=MahmoudNajmeh's%20Contribution%20Graph&theme=vue" /></a>
+   <a href="https://github.com/MN10101"><img alt="Mahmoud Najmeh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=uraniumkid30&custom_title=Mahmoud's%20Contribution%20Graph&theme=vue" /></a>
   <br/>
 
 </div>
