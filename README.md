@@ -35,5 +35,7 @@
     <img src="https://skillicons.dev/icons?i=eclipse" />
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
    <img src="https://skillicons.dev/icons?i=php" /><br>
+    <img src="https://img.icons8.com/color/48/000000/aws.png" />
+<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
 </div>
 <br/>
