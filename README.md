@@ -25,7 +25,7 @@
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l41m4qJG0M5wBPu5W/giphy.gif" height="280"/>
- <img align="center" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="280"/><br/>
+ <img align="left" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="280"/><br/>
 <br/><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,windows,linux" />
