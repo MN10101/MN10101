@@ -24,7 +24,7 @@
 <hr/>
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
- <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="280"/>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,windows,linux" />
