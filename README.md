@@ -1,22 +1,14 @@
 <img align="left" src="https://img.shields.io/badge/visitors-1120-blue" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahmoud+Najmeh!;" />
 </h1>
-
 <h3 align="center">Software Developer, Java {} Spring from Berlin 🇩🇪</h3>
-
 <br/>
-
-
-
 - 🔭 I’m currently working on **my final project**
 - 🌱 Currently learning Java with DCI in an intensive one year professional training, with 1800 hours of remote classes, focusing on the next topics:  **Java, SSQL, PostgreSQL, Spring Framework, REST APIs, Spring boot, Spring MVC, Spring Security,Thymeleaf(HTML)**
 - 💬 Ask me about **anything you want**
 - 😄 Pronouns: **He/Him**
-
 </div>
- 
 <div align="center"> 
   <a href="mailto:mn.de@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
@@ -28,11 +20,8 @@
     <img src="https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white" />
   </a>
 </div>
-
 <hr/>
- 
 <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" height="280"/>
 <br/>
@@ -44,6 +33,6 @@
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
     <img src="https://skillicons.dev/icons?i=eclipse" />
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
-    <img src="https://img.icons8.com/color/48/000000/php-logo.png" width="48" height="48" style="padding-top: 5px;"/><br>
+    <img src="https://img.icons8.com/color/48/000000/php-logo.png" width="48" height="48"/><br>
 </div>
 <br/>
