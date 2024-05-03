@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Software Developer, Java {} Spring from Berlin 🇩🇪</h3>
 <br/>
-<div>
+
 - 🔭 I’m currently working on **my final project**
 - 🌱 Currently learning Java with DCI in an intensive one year professional training, with 1800 hours of remote classes, focusing on the next topics:  **Java, SSQL, PostgreSQL, Spring Framework, REST APIs, Spring boot, Spring MVC, Spring Security,Thymeleaf(HTML)**
 - 💬 Ask me about **anything you want**
