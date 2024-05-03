@@ -44,7 +44,7 @@
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uraniumkid30&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
  <hr/>
 <hr/>
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+<b>⚡ Recent GitHub Activity</b>
   <br/>
    <a href="https://github.com/MN10101"><img alt="Mahmoud Najmeh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=uraniumkid30&custom_title=Mahmoud's%20Contribution%20Graph&theme=vue" /></a>
   <br/>
