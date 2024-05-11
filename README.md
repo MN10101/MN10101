@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white" />
   </a>
     <a href="https://link_to_your_website.com" target="_blank">
-  <img src="https://img.shields.io/badge/Browse-Internet-006567?style=for-the-badge&logo=xing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internet-006567?style=for-the-badge&logo=xing&logoColor=white" />
 </a>
 
 </div>
