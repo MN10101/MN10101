@@ -10,7 +10,7 @@
 - 🌱 Currently learning Java with DCI in an intensive one year professional training, with 1800 hours of remote classes, focusing on the next topics:  **Java, SSQL, PostgreSQL, Spring Framework, REST APIs, Spring boot, Spring MVC, Spring Security,Thymeleaf(HTML)**
 - 💬 Ask me about **Java**
 - 😄 Pronouns: **He/Him**
-- 🖥️ Portoflio: **[Mahmoud Najmeh Portfolio](https://mn10101.github.io/portfolio-mn/)**
+- 🖥️ **[Mahmoud Najmeh Portfolio](https://mn10101.github.io/portfolio-mn/)**
 </div>
 <div align="center"> 
   <a href="mailto:mn.de@outlook.com">
