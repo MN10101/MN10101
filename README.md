@@ -44,7 +44,7 @@
     
 ## :trophy: Git profile Trophies
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uraniumkid30&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MN10101&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
  <hr/>
 <hr/>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
