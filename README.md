@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my final project**
 - 🌱 Currently learning Java with DCI in an intensive one year professional training, with 1800 hours of remote classes, focusing on the next topics:  **Java, SSQL, PostgreSQL, Spring Framework, REST APIs, Spring boot, Spring MVC, Spring Security,Thymeleaf(HTML)**
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**, **ORM, Hibernate, Spring MVC, Spring Boot, Spring Security, Testing**, **REAST APIs**, **JDBC API, Advanced SQL**
 - 😄 Pronouns: **He/Him**
 - 🖥️ **[Mahmoud Najmeh Portfolio](https://mn10101.github.io/portfolio-mn/)**
 </div>
