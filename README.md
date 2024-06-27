@@ -28,7 +28,8 @@
 
 - 😄 Pronouns:
     -  **He/Him**
-- 🖥️ **[Mahmoud Najmeh Portfolio](https://mn10101.github.io/portfolio-mn/)**
+- 🖥️ Portfolio:
+    -  **[Mahmoud Najmeh Portfolio](https://mn10101.github.io/portfolio-mn/)**
 </div>
 <div align="center"> 
   <a href="mailto:mn.de@outlook.com">
