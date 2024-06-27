@@ -26,7 +26,8 @@
     - **Managing dependencies and project structure with Maven and Gradle**
     - **Testing strategies in Spring Boot applications**
 
-- 😄 Pronouns: **He/Him**
+- 😄 Pronouns:
+      - **He/Him**
 - 🖥️ **[Mahmoud Najmeh Portfolio](https://mn10101.github.io/portfolio-mn/)**
 </div>
 <div align="center"> 
