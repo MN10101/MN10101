@@ -7,8 +7,13 @@
 <br/>
 
 - 🔭 I’m currently working on **my final project**
-- 🌱 Currently Skilled in:  **Java, Lambdas, Exceptions, Libraries, Streams, Apache Commons, Maven, Gradle, Coding Standards, Logical Thinking,
-                              Algorithmic Thinking, ORM, Hibernate, Spring MVC, Spring Boot, Spring Security, Testing**, **REAST APIs**, **JDBC API, Advanced SQL, AWS, GCP**
+- 🌱 Currently Skilled in:
+    - **Java, Lambdas, Exceptions, Libraries, Streams, Apache Commons, Maven, Gradle, Coding Standards**
+    - **Logical Thinking, Algorithmic Thinking** **ORM, Hibernate**
+    - **Spring MVC, Spring Boot, Spring Security, Testing**
+    - **REAST APIs**
+    -  **JDBC API, Advanced SQL**
+    -  **AWS, GCP**
 - 💬 Ask me about:
     - **Best practices in Java development**
     - **Building and securing RESTful APIs**
