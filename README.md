@@ -10,7 +10,8 @@
     - **Learning and Exploring: Continuously learning new technologies and frameworks to stay updated with the latest trends in software development.**
 - 🌱 Currently Skilled in:
     - **Java, Lambdas, Exceptions, Libraries, Streams, Apache Commons, Maven, Gradle, Coding Standards**
-    - **Logical Thinking, Algorithmic Thinking** **ORM, Hibernate**
+    - **Logical Thinking, Algorithmic Thinking**
+    - **ORM, Hibernate**
     - **Spring MVC, Spring Boot, Spring Security, Testing**
     - **REAST APIs**
     -  **JDBC API, Advanced SQL**
