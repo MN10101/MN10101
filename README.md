@@ -1,6 +1,6 @@
 <img align="left" src="https://img.shields.io/badge/visitors-1120-blue" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=%23334D5C&lines=Hi+There!+👋;+I'm+Mahmoud+Najmeh!;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=%230A74DA&lines=Hi+There!+👋;+I'm+Mahmoud+Najmeh!;">
 
 </h1>
 <h3 align="center">Software Developer, Java {} Spring from Berlin 🇩🇪</h3>
