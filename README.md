@@ -27,7 +27,7 @@
     - **Testing strategies in Spring Boot applications**
 
 - 😄 Pronouns:
-      - **He/Him**
+    -  **He/Him**
 - 🖥️ **[Mahmoud Najmeh Portfolio](https://mn10101.github.io/portfolio-mn/)**
 </div>
 <div align="center"> 
