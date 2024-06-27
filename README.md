@@ -10,14 +10,14 @@
 - 🌱 Currently Skilled in:  **Java, Lambdas, Exceptions, Libraries, Streams, Apache Commons, Maven, Gradle, Coding Standards, Logical Thinking,
                               Algorithmic Thinking, ORM, Hibernate, Spring MVC, Spring Boot, Spring Security, Testing**, **REAST APIs**, **JDBC API, Advanced SQL, AWS, GCP**
 - 💬 Ask me about:
-- **Best practices in Java development**
-- **Building and securing RESTful APIs**
-- **Effective use of ORM with Hibernate**
-- **Setting up CI/CD pipelines with Maven and Gradle**
-- **Advanced SQL queries and database optimization**
-- **Utilizing Java Streams and Lambdas for efficient coding**
-- **Managing dependencies and project structure with Maven and Gradle**
-- **Testing strategies in Spring Boot applications**
+    - **Best practices in Java development**
+    - **Building and securing RESTful APIs**
+    - **Effective use of ORM with Hibernate**
+    - **Setting up CI/CD pipelines with Maven and Gradle**
+    - **Advanced SQL queries and database optimization**
+    - **Utilizing Java Streams and Lambdas for efficient coding**
+    - **Managing dependencies and project structure with Maven and Gradle**
+    - **Testing strategies in Spring Boot applications**
 
 - 😄 Pronouns: **He/Him**
 - 🖥️ **[Mahmoud Najmeh Portfolio](https://mn10101.github.io/portfolio-mn/)**
