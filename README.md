@@ -16,6 +16,7 @@
     - **REAST APIs**
     -  **JDBC API, Advanced SQL**
     -  **AWS, GCP**
+    -  **React, HTML, CSS, JavaScript, Bootstrap**
 - 💬 Ask me about:
     - **Best practices in Java development**
     - **Building and securing RESTful APIs**
