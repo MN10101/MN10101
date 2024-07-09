@@ -7,7 +7,8 @@
 <br/>
 
 - 🔭 I’m currently working on:
-    - **Learning and Exploring: Continuously learning new technologies and frameworks to stay updated with the latest trends in software development.**
+    - **Learning and Exploring:**
+        -  **Continuously learning new technologies and frameworks to stay updated with the latest trends in software development.**
 - 🌱 Currently Skilled in:
     - **Java, Lambdas, Exceptions, Libraries, Streams, Apache Commons, Maven, Gradle, Coding Standards**
     - **Logical Thinking, Algorithmic Thinking**
