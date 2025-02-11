@@ -1,45 +1,47 @@
-# 👋 Hello! I'm Mahmoud Najmeh  
-*Software Developer | Passionate about Coding & Innovation*  
-📍 Based in Berlin, Germany 🇩🇪
+<img align="left" src="https://img.shields.io/badge/visitors-1120-blue" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=%230A74DA&lines=Hi+There!+👋;+I'm+Mahmoud+Najmeh!;">
+</h1>
 
----
+<h3 align="center">Software Developer from Berlin 🇩🇪</h3>
+<br/>
 
 ## 🚀 Currently Working On:
-- Exploring cutting-edge technologies & frameworks
+- Exploring cutting-edge technologies & frameworks  
 - Continuously learning modern software engineering practices
 
 ## 🌱 Skills & Expertise:
 ### Programming Languages:
-- **C#:** Object-Oriented Programming, LINQ, .NET Core
-- **Python:** Flask, Django, Data Science
+- **C#:** Object-Oriented Programming, LINQ, .NET Core  
+- **Python:** Flask, Django, Data Science  
 - **Java:** Spring Boot, Multi-threading, Performance Optimization
 
 ### Frameworks & Tools:
-- **Backend Development:** Spring Boot, Django, REST APIs, Hibernate, JDBC
-- **Frontend Development:** React, JavaScript, HTML, CSS, Bootstrap
-- **Cloud:** AWS, GCP
-- **Databases:** PostgreSQL, MySQL, Advanced SQL
+- **Backend Development:** Spring Boot, Django, REST APIs, Hibernate, JDBC  
+- **Frontend Development:** React, JavaScript, HTML, CSS, Bootstrap  
+- **Cloud:** AWS, GCP  
+- **Databases:** PostgreSQL, MySQL, Advanced SQL  
 - **DevOps & CI/CD:** Jenkins, Maven, Gradle
 
 ### Best Practices:
-- **API Design:** RESTful architecture, Security protocols
-- **ORM with Hibernate**
-- **Database optimization** and advanced SQL queries
+- **API Design:** RESTful architecture, Security protocols  
+- **ORM with Hibernate**  
+- **Database optimization** and advanced SQL queries  
 - **Unit Testing & TDD**
 
 ## 💬 Ask Me About:
-- **Optimizing RESTful APIs** and securing them
-- **Designing scalable & efficient backends**
-- **SQL query optimization**
+- **Optimizing RESTful APIs** and securing them  
+- **Designing scalable & efficient backends**  
+- **SQL query optimization**  
 - **Advanced Java, C#, Python techniques**
 
 ---
 
 ### 🔗 Connect with Me:
-- **Portfolio:** <a href="https://mn10101.github.io/portfolio-mn/" target="_blank">My Portfolio</a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/mahmoud-najmeh-b53172211" target="_blank">Mahmoud Najmeh</a>
-- **Xing:** <a href="https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles" target="_blank">Mahmoud Najmeh on Xing</a>
-- **Email:** <a href="mailto:mn.de@outlook.com" target="_blank">mn.de@outlook.com</a>
+- **Portfolio:** [My Portfolio](https://mn10101.github.io/portfolio-mn/)  
+- **LinkedIn:** [Mahmoud Najmeh](https://www.linkedin.com/in/mahmoud-najmeh-b53172211)  
+- **Xing:** [Mahmoud Najmeh on Xing](https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles)  
+- **Email:** [mn.de@outlook.com](mailto:mn.de@outlook.com)
 
 ---
 
