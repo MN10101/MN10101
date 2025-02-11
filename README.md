@@ -52,6 +52,7 @@
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
     <img src="https://skillicons.dev/icons?i=eclipse" />
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+    <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" />
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
