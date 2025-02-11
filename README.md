@@ -36,10 +36,10 @@
 ---
 
 ### 🔗 Connect with Me:
-- **Portfolio:** [My Portfolio](https://mn10101.github.io/portfolio-mn/)
-- **LinkedIn:** [Mahmoud Najmeh](https://www.linkedin.com/in/mahmoud-najmeh-b53172211)
-- **Xing:** [Mahmoud Najmeh on Xing](https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles)
-- **Email:** [mn.de@outlook.com](mailto:mn.de@outlook.com)
+- **Portfolio:** <a href="https://mn10101.github.io/portfolio-mn/" target="_blank">My Portfolio</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/mahmoud-najmeh-b53172211" target="_blank">Mahmoud Najmeh</a>
+- **Xing:** <a href="https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles" target="_blank">Mahmoud Najmeh on Xing</a>
+- **Email:** <a href="mailto:mn.de@outlook.com" target="_blank">mn.de@outlook.com</a>
 
 ---
 
