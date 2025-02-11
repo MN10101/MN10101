@@ -9,16 +9,16 @@
 - 🔭 I’m currently working on:
     - **Learning and Exploring: Continuously learning new technologies and frameworks to stay updated with the latest trends in software development.**
 - 🌱 Currently Skilled in:
-    - **Java, Lambdas, Exceptions, Libraries, Streams, Apache Commons, Maven, Gradle, Coding Standards**
+    - **C#, Python, Java, Lambdas, Exceptions, Libraries, Streams, Apache Commons, Maven, Gradle, Coding Standards**
     - **Logical Thinking, Algorithmic Thinking**
     - **ORM, Hibernate**
-    - **Spring MVC, Spring Boot, Spring Security, Testing**
+    - **VSC, Django, Spring Boot, Spring Security, Testing**
     - **REAST APIs**
     -  **JDBC API, Advanced SQL**
     -  **AWS, GCP**
     -  **React, HTML, CSS, JavaScript, Bootstrap**
 - 💬 Ask me about:
-    - **Best practices in Java development**
+    - **Best practices in Java, C# and Python development**
     - **Building and securing RESTful APIs**
     - **Effective use of ORM with Hibernate**
     - **Setting up CI/CD pipelines with Maven and Gradle**
