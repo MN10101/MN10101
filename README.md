@@ -20,7 +20,7 @@
 - **Frontend Development:** React, JavaScript, HTML, CSS, Bootstrap
 - **Cloud:** AWS, GCP
 - **Databases:** PostgreSQL, MySQL, Advanced SQL
-- **DevOps & CI/CD:** Jenkins, Maven, Gradle
+- **DevOps & CI/CD:** Maven, Gradle
 
 ### Best Practices:
 - **API Design:** RESTful architecture, Security protocols
