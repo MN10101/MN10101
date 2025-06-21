@@ -26,7 +26,7 @@
 - **API Design:** RESTful architecture, Security protocols
 - **ORM with Hibernate**
 - **Database optimization** and advanced SQL queries
-- **Unit Testing & TDD**
+- **Unit & Mockito Testing**
 
 ## 💬 Ask Me About:
 - **Optimizing RESTful APIs** and securing them
