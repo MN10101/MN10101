@@ -1,6 +1,6 @@
 
 # 👋 Hello! I'm Mahmoud Najmeh  
-*Software Developer | Passionate about Coding & Innovation*  
+*Java Backend Developer | Full-Stack Engineer | AI Enthusiast*  
 📍 Based in Berlin, Germany 🇩🇪
 
 ---
@@ -37,7 +37,7 @@
 ---
 
 ### 🔗 Connect with Me:
-- **Portfolio:** <a href="https://mn10101.github.io/portfolio-mn/" target="_blank">My Portfolio</a>
+- **Portfolio:** <a href="https://mn10101.github.io/MN/" target="_blank">My Portfolio</a>
 - **LinkedIn:** <a href="https://www.linkedin.com/in/mahmoud-najmeh-b53172211" target="_blank">Mahmoud Najmeh</a>
 - **Xing:** <a href="https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles" target="_blank">Mahmoud Najmeh on Xing</a>
 - **Email:** <a href="mailto:mn.de@outlook.com" target="_blank">mn.de@outlook.com</a>
