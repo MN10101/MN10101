@@ -1,6 +1,6 @@
 
 # 👋 Hello! I'm Mahmoud Najmeh  
-*Java Backend Developer | Full-Stack Engineer | AI Enthusiast*  
+*Software Developer | Full-Stack | AI % ML*  
 📍 Based in Berlin, Germany 🇩🇪
 
 ---
