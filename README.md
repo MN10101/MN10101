@@ -1,6 +1,6 @@
 
 # 👋 Hello! I'm Mahmoud Najmeh  
-*Software Developer | Full-Stack | AI % ML*  
+*Software Developer | Full-Stack | AI & ML*  
 📍 Based in Berlin, Germany 🇩🇪
 
 ---
