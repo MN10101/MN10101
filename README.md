@@ -1,117 +1,114 @@
-# 👋 Hallo! Ich bin Mahmoud Najmeh
+# 👋 Hello! I'm Mahmoud Najmeh
 
-*Software Developer \| Data Engineering & ML Systems*\
-📍 Berlin, Deutschland 🇩🇪\
-🎓 IHK-zertifizierter Data Engineering Kurs (in Arbeit)
-
-------------------------------------------------------------------------
-
-## 🚀 Aktueller Fokus
-
--   **IHK Data Engineering mit Python** bei DCI
--   Aufbau von End‑to‑End Datenpipelines und ML-Systemen
--   Moderner Data Stack: Spark, Airflow, dbt, MLflow
-
-## 🛠️ Tech Stack
-
-### Data Engineering & Machine Learning
-
-Apache Spark (Spark SQL, Spark MLlib, Structured Streaming)\
-Apache Airflow \| Apache Kafka \| dbt \| MLflow \| Great Expectations\
-Delta Lake \| Apache Iceberg\
-Pandas \| scikit-learn \| Feature Stores\
-ETL / ELT \| Data Warehousing\
-Parquet / ORC / Avro \| Change Data Capture (CDC)
-
-### Cloud & Plattformen
-
-AWS (Glue) \| Google Cloud (BigQuery, Dataflow)\
-Data Lakes \| Lakehouse Architekturen
-
-### Core Development
-
-**Sprachen:** Java (Spring Boot), Python (Django, Flask), C# (.NET), SQL
-
-**Backend:**\
-REST APIs \| Hibernate \| JDBC \| Microservices
-
-**Frontend:**\
-React \| JavaScript \| HTML \| CSS \| Bootstrap
-
-**DevOps:**\
-Docker \| Maven \| Gradle \| CI/CD
-
-**Datenbanken:**\
-PostgreSQL \| MySQL \| Query Optimization
-
-### Best Practices
-
-**Data Engineering** - Data Quality - Data Lineage - Observability -
-Data Governance
-
-**Software Engineering** - Clean Code - Design Patterns - TDD - SOLID
-Principles
-
-**API Design** - REST Architecture - Security - Documentation
-
-**Database** - Query Optimization - Indexing - Performance Tuning
+*Software Developer | Data Engineering & ML-Systeme | ETL/ELT · Cloud · Streaming · Python*\
+📍 Based in Berlin, Germany 🇩🇪\
+🎓 IHK-certified Data Engineering (in progress)
 
 ------------------------------------------------------------------------
 
-## 📌 Featured Projekte
+## 🚀 Current Focus:
 
-*(Demnächst -- Data Engineering Projekte)*
+-   **IHK-certified Data Engineering with Python** at DCI
+-   Building end-to-end data pipelines & ML systems
+-   Exploring the modern data stack: Spark, Airflow, dbt, MLflow
 
--   **Real‑time Data Pipeline**\
-    Kafka + Spark Streaming + Airflow
+## 🛠️ Tech Stack:
 
--   **ML Model Registry System**\
-    MLflow + scikit-learn + FastAPI
+### Data Engineering & ML:
 
--   **Lakehouse Architecture Demo**\
-    Delta Lake + Spark SQL
+Apache Spark (Spark SQL, Spark MLlib, Structured Streaming) \| Apache
+Airflow\
+Apache Kafka \| dbt \| MLflow \| Great Expectations \| Delta Lake \|
+Apache Iceberg\
+Pandas \| scikit-learn \| Feature Stores \| ETL/ELT \| Data Warehousing\
+Parquet/ORC/Avro \| Change Data Capture (CDC)
+
+### Cloud & Platforms:
+
+AWS (Glue) \| Google Cloud (BigQuery, Dataflow) \| Data Lakes \|
+Lakehouses
+
+### Core Development:
+
+**Languages:** Java (Spring Boot), Python (Django, Flask), C# (.NET),
+SQL\
+**Backend:** REST APIs, Hibernate, JDBC, Microservices\
+**Frontend:** React, JavaScript, HTML, CSS, Bootstrap\
+**DevOps:** Docker, Maven, Gradle, CI/CD\
+**Databases:** PostgreSQL, MySQL, Advanced Query Optimization
+
+### Best Practices:
+
+-   **Data Engineering:** Data Quality, Lineage, Observability,
+    Governance
+-   **Software Engineering:** Clean Code, Design Patterns, TDD, SOLID
+    Principles
+-   **API Design:** RESTful architecture, Security, Documentation
+-   **Database:** Query optimization, Indexing, Performance tuning
+
+## 📌 Featured Projects:
+
+*(Coming soon - Data Engineering projects)* - **Real-time Data
+Pipeline** - Kafka + Spark Streaming + Airflow - **ML Model Registry
+System** - MLflow + scikit-learn + FastAPI - **Lakehouse Architecture
+Demo** - Delta Lake + Spark SQL
+
+## 💬 Ask Me About:
+
+-   Building scalable data pipelines with Spark & Airflow
+-   MLflow for experiment tracking & model registry
+-   Transitioning from Full-Stack to Data Engineering
+-   REST API optimization & database performance
+-   Java/C#/Python best practices
 
 ------------------------------------------------------------------------
 
-## 💬 Themen über die ich gerne spreche
+### 🔗 Connect with Me:
 
--   Skalierbare Datenpipelines mit Spark & Airflow
--   MLflow für Experiment Tracking & Model Registry
--   Wechsel von Full‑Stack Development zu Data Engineering
--   REST API Optimierung
--   Datenbank Performance
-
-------------------------------------------------------------------------
-
-## 🔗 Kontakt
-
-**Portfolio:**\
-https://mn10101.github.io/MN/
-
-**LinkedIn:**\
-https://www.linkedin.com/in/mahmoud-najmeh-b53172211
-
-**Xing:**\
-https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles
-
-**Email:**\
-mn.de@outlook.com
+-   **Portfolio:** https://mn10101.github.io/MN/
+-   **LinkedIn:** https://www.linkedin.com/in/mahmoud-najmeh-b53172211
+-   **Xing:**
+    https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles
+-   **Email:** mn.de@outlook.com
 
 ------------------------------------------------------------------------
 
-## 📊 Lernreise -- IHK Data Engineering mit Python
+## 🛠️ Languages, Frameworks & Tools
+
+Core Languages: Java, Python, C#\
+Frameworks: Spring Boot, Django, .NET\
+Frontend: React, JavaScript, HTML, CSS, Bootstrap
+
+Data Engineering Tools: Apache Spark, Apache Airflow, Apache Kafka\
+Databases: PostgreSQL, MySQL
+
+Tools & Platforms: GitHub, VS Code, Eclipse, IntelliJ IDEA, Visual
+Studio, Postman\
+Cloud: AWS, Google Cloud
+
+Additional Data Tools: Pandas, Databricks / Delta Lake
+
+------------------------------------------------------------------------
+
+## 📊 Learning Journey - IHK Data Engineering with Python:
 
 ✅ Core Tech Fundamentals\
-🔄 Data Acquisition & Integration (in Arbeit)\
+🔄 Data Acquisition & Integration (in progress)\
 ⏳ Cloud Data Engineering\
 ⏳ Data Streams & Orchestration\
 ⏳ Data Platforms (Lakes & Lakehouses)\
 ⏳ Data Quality & Governance\
-⏳ ML für Data Engineers\
-⏳ Abschlussprojekt
+⏳ ML for Data Engineers\
+⏳ Final Project
 
 ------------------------------------------------------------------------
 
-🏷️ Pronouns: He/Him\
-📫 Offen für: Junior Data Engineer Rollen \| Full‑Stack Developer mit
-Data Fokus
+### 📊 Recent GitHub Activity
+
+GitHub Activity Graph available in the repository view.
+
+------------------------------------------------------------------------
+
+#### 🏷️ Pronouns: He/Him
+
+#### 📫 Open to: Junior Data Engineer roles \| Full-Stack Developer with Data focus
