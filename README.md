@@ -90,13 +90,14 @@ Demo** - Delta Lake + Spark SQL
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
     <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
 
-    <!-- New icons added (without touching your code above) -->
     <img src="https://skillicons.dev/icons?i=python,django,react,dotnet" />
-    <img src="https://img.icons8.com/color/48/000000/apache-spark.png" />
-    <img src="https://img.icons8.com/color/48/000000/apache-airflow.png" />
-    <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" />
-    <img src="https://img.icons8.com/color/48/000000/pandas.png" />
-    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" />
+
+    <img src="https://cdn.simpleicons.org/apachespark" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/apacheairflow" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/apachekafka" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/pandas" width="40" height="40"/>
+    
+    <img src="https://cdn.simpleicons.org/databricks" width="40" height="40"/>
 </div>
 ------------------------------------------------------------------------
 
