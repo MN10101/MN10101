@@ -97,7 +97,7 @@ Demo** - Delta Lake + Spark SQL
     <img src="https://cdn.simpleicons.org/apache-kafka" width="40" height="40" />
     <img src="https://cdn.simpleicons.org/pandas" width="40" height="40" />
     <img src="https://cdn.simpleicons.org/databricks" width="40" height="40" />
-</div>>
+</div>
 ------------------------------------------------------------------------
 
 ## 📊 Learning Journey - IHK Data Engineering with Python:
