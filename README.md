@@ -85,20 +85,19 @@ Demo** - Delta Lake + Spark SQL
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
     <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" />
     <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/postman" width="40" height="40"/>
     </a>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
     <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
 
+    <!-- New icons -->
     <img src="https://skillicons.dev/icons?i=python,django,react,dotnet" />
-
-    <img src="https://cdn.simpleicons.org/apachespark" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/apacheairflow" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/apachekafka" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/pandas" width="40" height="40"/>
-    
-    <img src="https://cdn.simpleicons.org/databricks" width="40" height="40"/>
-</div>
+    <img src="https://cdn.simpleicons.org/apache-spark" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/apache-airflow" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/apache-kafka" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/pandas" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/databricks" width="40" height="40" />
+</div>>
 ------------------------------------------------------------------------
 
 ## 📊 Learning Journey - IHK Data Engineering with Python:
