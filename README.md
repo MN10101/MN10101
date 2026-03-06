@@ -76,25 +76,14 @@ Demo** - Delta Lake + Spark SQL
 ## 🛠️ Languages, Frameworks & Tools
 
 <div align="center">
-    <!-- Your Original Code Here -->
-    
-    <!-- New Additions -->
-    <!-- Python & Django -->
+ 
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=django" />
-    
-    <!-- .NET -->
     <img src="https://skillicons.dev/icons?i=dotnet" />
-    
-    <!-- React -->
     <img src="https://skillicons.dev/icons?i=react" />
-    
-    <!-- Data Engineering Tools -->
     <img src="https://img.icons8.com/color/48/000000/apache-spark.png" />
     <img src="https://img.icons8.com/color/48/000000/airflow.png" />
     <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" />
-    
-    <!-- Additional Data Tools -->
     <img src="https://img.icons8.com/color/48/000000/pandas.png" />
     <img src="https://img.icons8.com/color/48/000000/databricks.png" />
 </div>
