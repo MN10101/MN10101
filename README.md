@@ -90,7 +90,8 @@ Demo** - Delta Lake + Spark SQL
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
     <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
 </div>
-------------------------------------------------------------------------
+---
+
 
 ## 📊 Learning Journey - IHK Data Engineering with Python:
 
