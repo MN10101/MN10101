@@ -91,7 +91,6 @@ Demo** - Delta Lake + Spark SQL
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
     <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
     
-    <!-- New Additions -->
     <!-- Python & Django -->
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=django" />
@@ -110,6 +109,7 @@ Demo** - Delta Lake + Spark SQL
     <!-- Additional Data Tools -->
     <img src="https://img.icons8.com/color/48/000000/pandas.png" />
     <img src="https://img.icons8.com/color/48/000000/databricks.png" />
+</div>
 </div>
 
 ------------------------------------------------------------------------
