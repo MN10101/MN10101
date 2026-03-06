@@ -1,71 +1,117 @@
+# 👋 Hallo! Ich bin Mahmoud Najmeh
 
-# 👋 Hello! I'm Mahmoud Najmeh  
-*Software Developer | Full-Stack | AI & ML*  
-📍 Based in Berlin, Germany 🇩🇪
+*Software Developer \| Data Engineering & ML Systems*\
+📍 Berlin, Deutschland 🇩🇪\
+🎓 IHK-zertifizierter Data Engineering Kurs (in Arbeit)
 
----
+------------------------------------------------------------------------
 
-## 🚀 Currently Working On:
-- Exploring cutting-edge technologies & frameworks
-- Continuously learning modern software engineering practices
+## 🚀 Aktueller Fokus
 
-## 🌱 Skills & Expertise:
-### Programming Languages:
-- **C#:** Object-Oriented Programming, LINQ, .NET Core
-- **Python:** Flask, Django, Data Science
-- **Java:** Spring Boot, Multi-threading, Performance Optimization
+-   **IHK Data Engineering mit Python** bei DCI
+-   Aufbau von End‑to‑End Datenpipelines und ML-Systemen
+-   Moderner Data Stack: Spark, Airflow, dbt, MLflow
 
-### Frameworks & Tools:
-- **Backend Development:** Spring Boot, Django, REST APIs, Hibernate, JDBC
-- **Frontend Development:** React, JavaScript, HTML, CSS, Bootstrap
-- **Cloud:** AWS, GCP
-- **Databases:** PostgreSQL, MySQL, Advanced SQL
-- **DevOps & CI/CD:** Maven, Gradle
+## 🛠️ Tech Stack
 
-### Best Practices:
-- **API Design:** RESTful architecture, Security protocols
-- **ORM with Hibernate**
-- **Database optimization** and advanced SQL queries
-- **Unit & Mockito Testing**
+### Data Engineering & Machine Learning
 
-## 💬 Ask Me About:
-- **Optimizing RESTful APIs** and securing them
-- **Designing scalable & efficient backends**
-- **SQL query optimization**
-- **Advanced Java, C#, Python techniques**
+Apache Spark (Spark SQL, Spark MLlib, Structured Streaming)\
+Apache Airflow \| Apache Kafka \| dbt \| MLflow \| Great Expectations\
+Delta Lake \| Apache Iceberg\
+Pandas \| scikit-learn \| Feature Stores\
+ETL / ELT \| Data Warehousing\
+Parquet / ORC / Avro \| Change Data Capture (CDC)
 
----
+### Cloud & Plattformen
 
-### 🔗 Connect with Me:
-- **Portfolio:** <a href="https://mn10101.github.io/MN/" target="_blank">My Portfolio</a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/mahmoud-najmeh-b53172211" target="_blank">Mahmoud Najmeh</a>
-- **Xing:** <a href="https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles" target="_blank">Mahmoud Najmeh on Xing</a>
-- **Email:** <a href="mailto:mn.de@outlook.com" target="_blank">mn.de@outlook.com</a>
+AWS (Glue) \| Google Cloud (BigQuery, Dataflow)\
+Data Lakes \| Lakehouse Architekturen
 
----
+### Core Development
 
-## 🛠️ Languages, Frameworks & Tools
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,windows,linux,apple" />
-    <img src="https://skillicons.dev/icons?i=javascript,bootstrap,css,html" />
-    <img src="https://img.icons8.com/color/48/000000/thymeleaf.png" />
-    <img src="https://skillicons.dev/icons?i=github,vscode" />
-    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
-    <img src="https://skillicons.dev/icons?i=eclipse" />
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
-    <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" />
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
-    <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
-</div>
+**Sprachen:** Java (Spring Boot), Python (Django, Flask), C# (.NET), SQL
 
----
+**Backend:**\
+REST APIs \| Hibernate \| JDBC \| Microservices
 
-### 📊 Recent GitHub Activity:
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=uraniumkid30&custom_title=Mahmoud%27s%20Contribution%20Graph&theme=vue)
+**Frontend:**\
+React \| JavaScript \| HTML \| CSS \| Bootstrap
 
----
+**DevOps:**\
+Docker \| Maven \| Gradle \| CI/CD
 
-#### 🏷️ Pronouns: He/Him
+**Datenbanken:**\
+PostgreSQL \| MySQL \| Query Optimization
+
+### Best Practices
+
+**Data Engineering** - Data Quality - Data Lineage - Observability -
+Data Governance
+
+**Software Engineering** - Clean Code - Design Patterns - TDD - SOLID
+Principles
+
+**API Design** - REST Architecture - Security - Documentation
+
+**Database** - Query Optimization - Indexing - Performance Tuning
+
+------------------------------------------------------------------------
+
+## 📌 Featured Projekte
+
+*(Demnächst -- Data Engineering Projekte)*
+
+-   **Real‑time Data Pipeline**\
+    Kafka + Spark Streaming + Airflow
+
+-   **ML Model Registry System**\
+    MLflow + scikit-learn + FastAPI
+
+-   **Lakehouse Architecture Demo**\
+    Delta Lake + Spark SQL
+
+------------------------------------------------------------------------
+
+## 💬 Themen über die ich gerne spreche
+
+-   Skalierbare Datenpipelines mit Spark & Airflow
+-   MLflow für Experiment Tracking & Model Registry
+-   Wechsel von Full‑Stack Development zu Data Engineering
+-   REST API Optimierung
+-   Datenbank Performance
+
+------------------------------------------------------------------------
+
+## 🔗 Kontakt
+
+**Portfolio:**\
+https://mn10101.github.io/MN/
+
+**LinkedIn:**\
+https://www.linkedin.com/in/mahmoud-najmeh-b53172211
+
+**Xing:**\
+https://www.xing.com/profile/Mahmoud_Najmeh031649/web_profiles
+
+**Email:**\
+mn.de@outlook.com
+
+------------------------------------------------------------------------
+
+## 📊 Lernreise -- IHK Data Engineering mit Python
+
+✅ Core Tech Fundamentals\
+🔄 Data Acquisition & Integration (in Arbeit)\
+⏳ Cloud Data Engineering\
+⏳ Data Streams & Orchestration\
+⏳ Data Platforms (Lakes & Lakehouses)\
+⏳ Data Quality & Governance\
+⏳ ML für Data Engineers\
+⏳ Abschlussprojekt
+
+------------------------------------------------------------------------
+
+🏷️ Pronouns: He/Him\
+📫 Offen für: Junior Data Engineer Rollen \| Full‑Stack Developer mit
+Data Fokus
