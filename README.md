@@ -106,12 +106,6 @@ Demo** - Delta Lake + Spark SQL
 
 ------------------------------------------------------------------------
 
-### 📊 Recent GitHub Activity
-
-GitHub Activity Graph available in the repository view.
-
-------------------------------------------------------------------------
-
 #### 🏷️ Pronouns: He/Him
 
 #### 📫 Open to: Junior Data Engineer roles \| Full-Stack Developer with Data focus
