@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Mahmoud Najmeh
 
-*Software Developer | Data Engineering & ML-Systems | ETL/ELT · Cloud · Streaming · Python*\
+*Data Engineering (ETL/ELT · Streaming · Big Data) | Software Developer | Kafka · Spark · Dagster · Cloud*\
 📍 Based in Berlin, Germany 🇩🇪\
 🎓 IHK-certified Data Engineering (in progress)
 
