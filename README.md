@@ -63,14 +63,6 @@ Demo** - Delta Lake + Spark SQL
 
 ------------------------------------------------------------------------
 
-### 🔗 Connect with Me:
-
--   **Portfolio:** https://mahmoudnajmeh.github.io/MN
--   **LinkedIn:** www.linkedin.com/in/mahmoudnajmeh
--   **Email:** mn.de@outlook.com
-
-------------------------------------------------------------------------
-
 ## 🛠️ Languages, Frameworks & Tools
 
 <div align="center">
